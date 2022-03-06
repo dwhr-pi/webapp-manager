@@ -13,6 +13,9 @@ http://packages.linuxmint.com/pool/main/l/linuxmint-keyring/linuxmint-keyring_20
 sudo apt install ./Downloads/linuxmint-keyring*.deb
 ```
 
+Es wird im Terminal angegeben, das dies nicht als Root durchführbar w#re, funktioniert aber trozdem.
+
+
 # Webapp Manager
 
 Run websites as if they were apps.
