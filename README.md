@@ -1,4 +1,5 @@
 https://ubuntuhandbook.org/index.php/2021/01/install-linux-mints-web-app-manager-ubuntu-20-04/
+http://packages.linuxmint.com/pool/main/w/webapp-manager/webapp-manager_1.1.9_all.deb
 
 # Webapp Manager
 
