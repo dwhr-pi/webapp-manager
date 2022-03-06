@@ -1,5 +1,17 @@
 https://ubuntuhandbook.org/index.php/2021/01/install-linux-mints-web-app-manager-ubuntu-20-04/
+
+Download File from and save: 
 http://packages.linuxmint.com/pool/main/w/webapp-manager/webapp-manager_1.1.9_all.deb
+
+```
+sudo apt install ./Downloads/webapp-manager*.deb
+```
+
+Download File from and save: 
+http://packages.linuxmint.com/pool/main/l/linuxmint-keyring/linuxmint-keyring_2016.05.26_all.deb
+```
+sudo apt install ./Downloads/linuxmint-keyring*.deb
+```
 
 # Webapp Manager
 
