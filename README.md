@@ -62,3 +62,19 @@ Press `ctrl+N` to open a new window.
 Navigate to https://chrome.google.com/webstore/category/extensions
 
 Now add the extension.
+
+
+
+
+## How to Remove Web App Manager:
+
+To remove the application, simply open terminal and run command:
+```
+sudo apt remove --auto-remove webapp-manager
+```
+To remove the Linux Mint repository, remove the relevant line from Software & Updates -> Other Software.
+
+And you may also remove the config file created to set the priority, via command:
+```
+sudo rm /etc/apt/preferences.d/mint-ulyssa-pin
+```
