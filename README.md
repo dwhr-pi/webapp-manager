@@ -15,6 +15,7 @@ sudo apt install ./Downloads/linuxmint-keyring*.deb
 
 Es wird im Terminal angegeben, das dies nicht als Root durchführbar wäre, funktioniert aber trozdem.
 
+Im `Startmenü` unter `Internet` wird `Webapps` aufgelistet, von dort ausführen. 
 
 # Webapp Manager
 
@@ -78,3 +79,5 @@ And you may also remove the config file created to set the priority, via command
 ```
 sudo rm /etc/apt/preferences.d/mint-ulyssa-pin
 ```
+
+Hierbei wird `Webapps` aus dem Verzeichnis `Internet` im `Startmenü` wieder entfernt. 
